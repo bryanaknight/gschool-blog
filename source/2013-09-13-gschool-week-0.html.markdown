@@ -1,5 +1,5 @@
 ---
-title: gSchool - Week 0
+title: first week impressions
 date: 2013-09-13 19:02 UTC
 tags:
 ---
