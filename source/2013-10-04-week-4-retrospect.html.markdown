@@ -1,4 +1,10 @@
 ---
+title: week 4 retrospect
+date: 2013-10-04 16:20 UTC
+tags:
+---
+
+---
 title: first week impressions
 date: 2013-09-13 19:02 UTC
 tags:
