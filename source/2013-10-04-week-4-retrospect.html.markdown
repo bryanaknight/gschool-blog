@@ -1,14 +1,8 @@
 ---
 title: week 4 retrospect
-date: 2013-10-04 16:20 UTC
-tags:
+date: 2013-10-04 18:15 UTC
 ---
 
----
-title: first week impressions
-date: 2013-09-13 19:02 UTC
-tags:
----
 
 Week 4 is coming to a close.  I remember when I first arrived in Denver, before gSchool ever started, saying to a friend, "I can't wait until i'm a month in and I know what the hell i'm doing." 
 
@@ -16,7 +10,7 @@ So the question is, do I know what the hell I'm doing? The answer: somewhat. I d
 
 During the past two weeks we worked on a project called SalesEngine. We had to take multiple CSV files with merchant, customer, invoice, transaction, invoice item and item data and write a program that parses the information and spits out information one would only know by figuring out how the data files are connected. For example: favorite customer based on items sold, merchant's revenue on a specific date, most popular item based on number sold, etc. If you know excel, think in terms of V-Lookups. Tons and tons of V-Lookups, which like this code, can be very confusing and painful. 
 
-I partnered with a classmate, Adam, and we spent the first week working with a few other classmates on the basic setup of the various classes to deal with the CSV. The second week was more Adam and I working individually and also pair programming to build relationships between the classes and extract the right information we wanted. 
+I partnered with a classmate, Adam, and we spent the first week working with a few other classmates on the basic setup of the various classes to deal with the CSV. The second week was more Adam and I working individually and then also pair programming.  We needed to build relationships between the classes and extract the right information we needed based on the parameters. 
 
 **Lowlight:** Monday night at around 9pm. I had been working all day but kept forcing the issue and continued to work. Nothing I produced at that point was pretty or functional. I realized this on Tuesday when I came into school in a better mood, scrapped everything I wrote in the final hour of the previous night, and wrote something 10x better in about 30 minutes. 
 
@@ -24,4 +18,4 @@ I partnered with a classmate, Adam, and we spent the first week working with a f
 
 **Take-aways:** Working with a partner can sometimes be challenging. Our instructors informed us that this project made some members of the previous class punch each other...
 
-###*[MINSWAN]*(http://blog.steveklabnik.com/posts/2011-08-19-matz-is-nice-so-we-are-nice) 
+[MINSWAN](http://blog.steveklabnik.com/posts/2011-08-19-matz-is-nice-so-we-are-nice) 

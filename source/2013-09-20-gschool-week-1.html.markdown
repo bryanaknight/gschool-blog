@@ -1,10 +1,8 @@
 ---
 title: first project complete
 date: 2013-09-20 18:15 UTC
-tags:
 ---
 
-##This week's project: EventReporter
 
 ###Intro:
 This week we had to complete a project called [Event Reporter](http://tutorials.jumpstartlab.com/projects/event_reporter.html). We wrote a program that loaded a csv file with rows of information on attendees of an event (including first name, last name, address and phone number) and then based on commands from a user, organized and stored that information in a queue. The program was also able to output the organized attendee data into a file named by the user. Pretty cool!
