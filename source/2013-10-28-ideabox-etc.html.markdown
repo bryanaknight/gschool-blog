@@ -12,8 +12,7 @@ For this project we used Sinatra. I thought Sinatra was pretty easy to work in. 
 
 If I could go back and start the project from scratch, I would be more strict with the tests. Specifically the acceptance test. I had 100% test coverage for my unit tests, but the acceptance tests we're not as thorough since I wasn't really sure how to write them and test Sinatra when we began the project. Towards the end of the project some of the extensions I had completed started breaking and it was time-consuming to figure out what exactly the problem was since my test coverage wasn't 100%. 
 
-Overall, I feel good about my first web app. I had a lot of fun with the design and CSS as you can see by the Halloween theme. I am pretty proud of that since I didn't know anything about html or CSS two weeks ago, and I didn't bootstrap this. You can check it out here:
-http://jack-o-lantern.herokuapp.com/ 
+Overall, I feel good about my first web app. I had a lot of fun with the design and CSS as you can see by the Halloween theme. I am pretty proud of that since I didn't know anything about html or CSS two weeks ago, and I didn't bootstrap this. You can check it out [here:](http://jack-o-lantern.herokuapp.com/)http://jack-o-lantern.herokuapp.com/
 
 ####First Code Retreat
 
